@@ -82,6 +82,6 @@ description: Introductory Workshops 入門工作坊
 
 **備註**
 
-* 參加者須自備 1.**個人用手提電腦** 或 2. **個人用 IOS/Android 手機** 
+* 參加者須自備 1.**個人用手提電腦** 或 2. **個人用 iOS/Android 手機**
 
 
