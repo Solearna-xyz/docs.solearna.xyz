@@ -22,7 +22,7 @@ description: Introductory Workshops 入門工作坊
 
 **費用︰** 原價 ~~$3,200~~, 新春優惠 $2,800
 
-**立即報名** ➡️ https://forms.gle/QzKwosA5g4gWtPLUA ⬅️
+**立即報名** ➡️ [https://forms.gle/QzKwosA5g4gWtPLUA](https://forms.gle/QzKwosA5g4gWtPLUA) ⬅️
 
 **內容︰**
 
