@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Workshops](workshops/introductory-workshops.md)
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 
 ## Overview
 
@@ -12,9 +12,6 @@
   * [Sustainable Distribution](overview/our-ecosystem/sustainable-distribution.md)
   * [Immutable Certifications](overview/our-ecosystem/immutable-certifications.md)
 * [Getting Involve](overview/getting-involve.md)
-
-## Workshops
-* [Introductory Workshops](workshops/introductory-workshops.md)
 
 ## Powered by Solearna
 
