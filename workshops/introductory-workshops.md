@@ -10,7 +10,7 @@ description: Introductory Workshops 入門工作坊
 
 **時間︰** 10:00-11:30、12:30-14:00 (每天兩節，共四節)
 
-**地點︰** Ooosh Kowloon (https://www.ooo.sh/kowloon)
+**地點︰** Ooosh Kowloon [https://www.ooo.sh/kowloon](https://www.ooo.sh/kowloon)
 
   長沙環青山道479號，麗昌工廠大廈8樓803室 (荔枝角港鐵站B1出口)
 
