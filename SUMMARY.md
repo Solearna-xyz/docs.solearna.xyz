@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Workshops](workshops/introductory-workshops.md)
 * [Introduction](README.md)
 
 ## Overview
