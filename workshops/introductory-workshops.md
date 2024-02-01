@@ -4,7 +4,7 @@ description: Introductory Workshops 入門工作坊
 
 # Solana Introductory Workshop (CNY) 
 
-# Solana 新手乘龍賀歲工作坊
+# Solana 🧧新手乘龍賀歲工作坊🐉
 
 **日期︰** 2024-02-15, 2024-02-16 (星期四、五 / 農曆大年初六、初七)
 
@@ -21,6 +21,8 @@ description: Introductory Workshops 入門工作坊
 **對象︰** 對加密貨幣/DeFi金融/區塊鏈技術及生態等有興趣人士
 
 **費用︰** 原價 ~~$3,200~~, 新春優惠 $2,800
+
+**立即報名** ➡️ https://forms.gle/QzKwosA5g4gWtPLUA ⬅️
 
 **內容︰**
 
@@ -81,4 +83,5 @@ description: Introductory Workshops 入門工作坊
 **備註**
 
 * 參加者須自備 1.**個人用手提電腦** 或 2. **個人用 IOS/Android 手機** 
+
 
