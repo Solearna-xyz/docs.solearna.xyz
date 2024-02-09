@@ -8,4 +8,4 @@ Sustainable resource distribution is the process of promoting fair and sustainab
 
 The recent Web3 has showcased two important systems to achieve such sustainability: tokenomics and DAO. Solearna will utilize these over the next few months to facilitate resources distribution for every parties in long term.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

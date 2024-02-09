@@ -8,4 +8,4 @@ Information is no longer in scarcity since the introduction of internet, in Info
 \
 The next question is simply, how do we make it sustainable in long run? Read on.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

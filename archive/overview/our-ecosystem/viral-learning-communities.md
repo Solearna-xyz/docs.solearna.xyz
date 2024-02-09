@@ -8,4 +8,4 @@ Web3 communities have been developed into a new form of social entity over the l
 
 The social aspect does not limit to students, but also teachers that provide and share knowledge to those are prepared to learn and grow. Next, we talk about how we might assist them to drive teachership more efficient, and most impostantly, collective in a dencentralized manner.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

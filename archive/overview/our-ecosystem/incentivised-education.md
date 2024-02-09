@@ -8,4 +8,4 @@ Fighting for attention has been the battleground among social medias and online 
 
 In Web2, individual EdTech like Duoligo has proven gamification and achieved millions of users. The glass ceiling they have is lacking social element that enables peers motivation. With fatigue developed over the years as in-game achievement is getting everywhere, a new kind of incentive triggers is necessary, and thereby we introduce the Web3 components, both tokenization of rewards and also borderless Web3 learning communities.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>

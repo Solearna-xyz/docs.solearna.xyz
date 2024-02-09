@@ -10,7 +10,7 @@ It's not the first time in the history that projects reinventing education throu
 
 ## Learners' Avatar
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Learning is always a lonesome process. Student who pursues knowledge in Web2 era usually lack a way to be recognized for their effort except a digitalized certificate. What if, their effort could be summarized and visualized as an public avatar?&#x20;
 
@@ -20,7 +20,7 @@ We thereby introduce Learners' Avatar - a character which lives on chain and gro
 
 ## Learners' Journey
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Onboarding
 

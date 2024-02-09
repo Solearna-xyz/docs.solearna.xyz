@@ -6,7 +6,7 @@ description: >-
 
 # Introduction
 
-<figure><img src=".gitbook/assets/Logo_Solearna (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo_Solearna (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 

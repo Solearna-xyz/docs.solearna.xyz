@@ -1,24 +1,19 @@
 # Table of contents
 
-* [Workshops](workshops/introductory-workshops.md)
-* [Introduction](introduction.md)
-
-## Overview
-
-* [Our Ecosystem](overview/our-ecosystem/README.md)
-  * [Incentivised Education](overview/our-ecosystem/incentivised-education.md)
-  * [Viral Learning Communities](overview/our-ecosystem/viral-learning-communities.md)
-  * [Evolvable Teaching Materials](overview/our-ecosystem/evolvable-teaching-materials.md)
-  * [Sustainable Distribution](overview/our-ecosystem/sustainable-distribution.md)
-  * [Immutable Certifications](overview/our-ecosystem/immutable-certifications.md)
-* [Getting Involve](overview/getting-involve.md)
-
-## Powered by Solearna
-
-* [Learners' NFT Avatars](powered-by-solearna/learners-nft-avatars.md)
-
-## Useful Links
-
-* [Official Links](useful-links/official-links/README.md)
-  * [Discord](https://discord.gg/solearna)
-  * [Twitter](https://twitter.com/solearna)
+* [Workshops](README.md)
+* [Archive](archive/README.md)
+  * [Introduction](archive/introduction.md)
+  * [OVERVIEW](archive/overview/README.md)
+    * [Our Ecosystem](archive/overview/our-ecosystem/README.md)
+      * [Incentivised Education](archive/overview/our-ecosystem/incentivised-education.md)
+      * [Viral Learning Communities](archive/overview/our-ecosystem/viral-learning-communities.md)
+      * [Evolvable Teaching Materials](archive/overview/our-ecosystem/evolvable-teaching-materials.md)
+      * [Sustainable Distribution](archive/overview/our-ecosystem/sustainable-distribution.md)
+      * [Immutable Certifications](archive/overview/our-ecosystem/immutable-certifications.md)
+    * [Getting Involve](archive/overview/getting-involve.md)
+  * [POWERED BY SOLEARNA](archive/powered-by-solearna/README.md)
+    * [Learners' NFT Avatars](archive/powered-by-solearna/learners-nft-avatars.md)
+  * [USEFUL LINKS](archive/useful-links/README.md)
+    * [Official Links](archive/useful-links/official-links/README.md)
+      * [Discord](https://discord.gg/solearna)
+      * [Twitter](https://twitter.com/solearna)
