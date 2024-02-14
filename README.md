@@ -14,7 +14,11 @@ description: Introductory Workshops 入門工作坊
 
 **時間︰** 10:00-11:30、12:30-14:00（每天兩節，共四節）
 
-**地點︰** 九龍區 Kowloon
+**地點︰** Ooosh Kowloon [https://www.ooo.sh/kowloon](https://www.ooo.sh/kowloon)
+
+  長沙環青山道479號，麗昌工廠大廈8樓803室 (荔枝角港鐵站B1出口)
+
+  Unit 803, 8/F, Lai Cheong Factory Building,479 Castle Peak Road, Cheung Sha Wan, Kowloon, Hong Kong   (Nearest MTR Station: Lai Chi Kok, B1 Exit)
 
 **講授語言︰** 粵語，專用術語輔以英語對照
 
