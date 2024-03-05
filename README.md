@@ -16,19 +16,19 @@ description: Workshops 工作坊
 
 **內容**
 
-* Hackathon project mentorship
+* Hackathon（駭客松）專案開發指導
 
-* Solana consensus mechanism, performance and principle
+* Solana 運作原理、共識機制與效能
 
-* Account Model
+* 資料儲存：帳户模型
 
-* Transaction and instruction
+* 操作單位：交易和指示
 
-* Token Standards (FT & NFT)
+* 代幣標準（同質、非同質）
 
-* Solana Program (Smart Contract)
+* Solana 程序 (Smart Contract)
 
-* Security
+* 安全考量
 
 **特色**
 
