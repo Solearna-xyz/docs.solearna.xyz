@@ -16,45 +16,46 @@ description: Workshops 工作坊
 
 **內容**
 
-Hackathon project mentorship
+* Hackathon project mentorship
 
-Solana consensus mechanism, performance and principle
+* Solana consensus mechanism, performance and principle
 
-Account Model
+* Account Model
 
-Transaction and instruction
+* Transaction and instruction
 
-Token Standards (FT & NFT)
+* Token Standards (FT & NFT)
 
-Solana Program (Smart Contract)
+* Solana Program (Smart Contract)
 
-Security
+* Security
 
 **特色**
 
-真槍實彈，以實踐印證理論
+* 真槍實彈，以實踐印證理論
 
-Solana 基金會認可官方開發工作坊
+* Solana 基金會認可官方開發工作坊
 
-首次於香港舉辦，機會難逢，是早著先機增值自己的好機會
+* 首次於香港舉辦，機會難逢，是早著先機增值自己的好機會
 
-成人可獲 50% 學費回贈，現屆學生更可獲 100% 學費回贈！
+* 成人可獲 50% 學費回贈，現屆學生更可獲 100% 學費回贈！
 
-提供錄影回放，無須擔心錯過精彩內容
+* 提供錄影回放，無須擔心錯過精彩內容
 
-導師課後支援、小組討論
+* 導師課後支援、小組討論
 
 
 **語言︰** 粵語講授，中/英語教材
 
 **日期/時間︰**
 
-12/03, 14/03, 16/03
+  12/03, 14/03, 16/03
 
-19/03, 21/03, 23/03
+  19/03, 21/03, 23/03
 
-(逢星期二、四 19:00-21:00、六)
-(逢星期六 14:00-16:00)
+  (逢星期二、四 19:00-21:00、六)
+
+  (逢星期六 14:00-16:00)
 
 
 
@@ -62,20 +63,21 @@ Solana 基金會認可官方開發工作坊
 
 **費用:**
 
-** 早鳥價 (12/3 23:59:59  之前)**
+**早鳥價 (12/3 23:59:59 之前)**
 
-成人 HKD$5,000
+  成人 HKD$5,000
 
-學生 HKD$1,000
+  學生 HKD$1,000
 
 **富鳥價 (13/3 00:00:00 之後)**
 
-成人 HKD$8,000
+  成人 HKD$8,000
 
-學生 HKD$1,600
+  學生 HKD$1,600
 
-簽到出席當中 [x] 小時工作坊並成功送遞專案參加 Solana Hackathon 可獲 50% 學費回贈，提供現屆學生證明更可獲 100% 學費回贈！
+💰簽到出席當中 [x] 小時工作坊並成功送遞專案參加 Solana Hackathon，可獲 50% 學費回贈，提供現屆學生證明更可獲 100% 學費回贈！
 
+**立即報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
 
 
 ## Solana Introductory Workshop (CNY) (Finished)
