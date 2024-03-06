@@ -63,13 +63,13 @@ description: Workshops 工作坊
 
 **費用:**
 
-**早鳥價 (12/3 23:59:59 之前)**
+**早鳥價 (時段待定)**
 
     成人 HKD$5,000
 
     學生 HKD$1,000
 
-**富鳥價 (13/3 00:00:00 之後)**
+**富鳥價 (時段待定)**
 
     成人 HKD$8,000
 
@@ -77,6 +77,21 @@ description: Workshops 工作坊
 
 💰簽到出席當中 [x] 小時工作坊並成功送遞專案參加 Solana Hackathon，可獲 50% 學費回贈，提供現屆學生證明更可獲 100% 學費回贈！
 
-**立即報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
+
+**流程**
+
+1. 線上簡介會(暫定3月9日，星期六)
+
+2. 早鳥價報名
+
+3. 富鳥價報名
+
+4. 開課 (3月)
+
+5. 遞交作品 (4月初)
+
+**簡介會報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
+
+**課程報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
 
 
