@@ -90,7 +90,7 @@ description: Workshops 工作坊
 
 5. 遞交作品 (4月初)
 
-**簡介會報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
+**簡介會報名** ➡️ [https://forms.gle/LfKADKsm8gZoCTLq6](https://forms.gle/LfKADKsm8gZoCTLq6) ⬅️
 
 **課程報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
 
