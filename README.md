@@ -92,6 +92,5 @@ description: Workshops 工作坊
 
 **簡介會報名** ➡️ [https://forms.gle/LfKADKsm8gZoCTLq6](https://forms.gle/LfKADKsm8gZoCTLq6) ⬅️
 
-**課程報名** ➡️ [https://forms.gle/abcde](https://forms.gle/abcde) ⬅️
 
 
