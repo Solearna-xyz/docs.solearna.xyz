@@ -6,6 +6,8 @@ description: Workshops 工作坊
 
 ## 機會黎啦飛雲！Solana Hackathon Workshop 即將於三月開辦🤩！
 
+<figure><img src="./images/solearna-class-202403a.jpg" alt=""><figcaption></figcaption></figure>
+
 想要更深入了解 Solana Hackathon，單拖或組隊開發領⭐金貨💰事不宜遲。為期個多月課程將函蓋 Solana 基本原理到進階開發技巧。透過與專業導師團隊教學相長、深入淺出，引領參加者進入 Solana 專業開發領域。
 
 **對象︰**
@@ -91,6 +93,5 @@ description: Workshops 工作坊
 5. 遞交作品 (4月初)
 
 **簡介會報名** ➡️ [https://forms.gle/LfKADKsm8gZoCTLq6](https://forms.gle/LfKADKsm8gZoCTLq6) ⬅️
-
 
 
