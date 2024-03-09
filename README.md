@@ -85,4 +85,3 @@ description: Workshops 工作坊
 
 **Solana Hackathon Workshop 立即報名** ➡️ [https://forms.gle/xuiJGxoRW6hEGyKr6](https://forms.gle/xuiJGxoRW6hEGyKr6) ⬅️
 
-**簡介會報名** ➡️ [https://forms.gle/LfKADKsm8gZoCTLq6](https://forms.gle/LfKADKsm8gZoCTLq6) ⬅️
