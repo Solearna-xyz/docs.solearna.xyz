@@ -59,11 +59,9 @@ description: Workshops 工作坊
 
 ~~**早鳥價（3月12日23:59 HKT 前, 以入數時間為準）**~~
 
-```
 ~~成人 HKD$5,000~~
 
 ~~學生 HKD$1,000~~
-```
 
 **富鳥價（3月13日00:00 HKT 起, 以入數時間為準）**
 
@@ -78,10 +76,15 @@ description: Workshops 工作坊
 **流程**
 
 ~~1. 線上簡介會(3月9日 20:00，星期六)~~
+
 ~~2. 早鳥價報名 (3月12日23:59 前)~~
+
 3. 富鳥價報名 (3月13日00:00 起)
+
 4. 開課 (3月)
+
 5. 遞交作品 (4月初)
+
 
 **Solana Hackathon Workshop 立即報名** ➡️ [https://forms.gle/xuiJGxoRW6hEGyKr6](https://forms.gle/xuiJGxoRW6hEGyKr6) ⬅️
 
