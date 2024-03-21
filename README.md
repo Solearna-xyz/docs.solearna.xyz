@@ -48,6 +48,8 @@ description: Workshops 工作坊
 
 26/03 
 
+28/03, 02/04 💣 最後兩堂特別加贈，不另收費！
+
 (逢星期二、四 19:00-21:00)
 
 (逢星期六 12:30-14:30)
@@ -80,11 +82,7 @@ description: Workshops 工作坊
 ~~2. 早鳥價報名 (3月12日23:59 前)~~
 
 3. 富鳥價報名 (3月13日00:00 起)
-
 4. 開課 (3月)
-
 5. 遞交作品 (4月初)
 
-
 **Solana Hackathon Workshop 立即報名** ➡️ [https://forms.gle/xuiJGxoRW6hEGyKr6](https://forms.gle/xuiJGxoRW6hEGyKr6) ⬅️
-
